@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  background:#05010f;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x:hidden;
+}
+
+.swiper-pagination-bullet{
+  background:white !important;
+  opacity:0.5;
+}
+
+.swiper-pagination-bullet-active{
+  background:#a855f7 !important;
+  opacity:1;
+}
