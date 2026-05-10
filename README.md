@@ -45,9 +45,6 @@ Build for production:
 npm run build
 ```
 
-## Live Demo
-
-Add your deployed Vercel link here.
 
 ## Author
 
